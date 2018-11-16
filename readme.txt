@@ -10,7 +10,7 @@ The database that I used originated from https://singleschronology.wordpress.com
 Analysis:
 From my csv database I filtered out the irrelevant data and kept the Date, Year, Chart_Position, Artist and Title columns.  I ran an SQL command to make a new column that contained a calculated frequency for each artist, and then sorted them in descending order.  I did this to figure out how many hits each artist had from the 90’s.
 
-Visualisation:
+Visualization:
 For my project I chose to use matplotlib to create a bar graph representing the results that I found.  I used matplotlib over other alternatives because of its straightforward application and great documentation
 
 Conclusion:
