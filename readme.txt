@@ -1,7 +1,7 @@
 Lauren Weining
 Code Louisville Python for Data
 
-Overall Goal of Project
+Overall Goal of Project:
 Determining the artist with the most billboard hits from the 90’s.  (1990-1999)
 
 Source:
